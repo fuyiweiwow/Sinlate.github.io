@@ -3,11 +3,11 @@
   <title>SINSPACE</title>
   
   <subtitle>精诚所至，金石为开</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://fuyiweiwow.github.io/Sinlate.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://fuyiweiwow.github.io/Sinlate.github.io/"/>
   <updated>2022-02-25T01:52:28.270Z</updated>
-  <id>http://example.com/</id>
+  <id>https://fuyiweiwow.github.io/Sinlate.github.io/</id>
   
   <author>
     <name>Sinlate</name>
@@ -18,31 +18,31 @@
   
   <entry>
     <title>标题</title>
-    <link href="http://example.com/2022/02/11/test/"/>
-    <id>http://example.com/2022/02/11/test/</id>
+    <link href="https://fuyiweiwow.github.io/Sinlate.github.io/2022/02/11/test/"/>
+    <id>https://fuyiweiwow.github.io/Sinlate.github.io/2022/02/11/test/</id>
     <published>2022-02-11T09:28:58.694Z</published>
     <updated>2022-02-25T01:52:28.270Z</updated>
     
     
     
     
-    <category term="分类1" scheme="http://example.com/categories/%E5%88%86%E7%B1%BB1/"/>
+    <category term="分类1" scheme="https://fuyiweiwow.github.io/Sinlate.github.io/categories/%E5%88%86%E7%B1%BB1/"/>
     
-    <category term="分类2" scheme="http://example.com/categories/%E5%88%86%E7%B1%BB1/%E5%88%86%E7%B1%BB2/"/>
+    <category term="分类2" scheme="https://fuyiweiwow.github.io/Sinlate.github.io/categories/%E5%88%86%E7%B1%BB1/%E5%88%86%E7%B1%BB2/"/>
     
     
-    <category term="标签1" scheme="http://example.com/tags/%E6%A0%87%E7%AD%BE1/"/>
+    <category term="标签1" scheme="https://fuyiweiwow.github.io/Sinlate.github.io/tags/%E6%A0%87%E7%AD%BE1/"/>
     
-    <category term="标签2" scheme="http://example.com/tags/%E6%A0%87%E7%AD%BE2/"/>
+    <category term="标签2" scheme="https://fuyiweiwow.github.io/Sinlate.github.io/tags/%E6%A0%87%E7%AD%BE2/"/>
     
-    <category term="标签3" scheme="http://example.com/tags/%E6%A0%87%E7%AD%BE3/"/>
+    <category term="标签3" scheme="https://fuyiweiwow.github.io/Sinlate.github.io/tags/%E6%A0%87%E7%AD%BE3/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/02/11/hello-world/"/>
-    <id>http://example.com/2022/02/11/hello-world/</id>
+    <link href="https://fuyiweiwow.github.io/Sinlate.github.io/2022/02/11/hello-world/"/>
+    <id>https://fuyiweiwow.github.io/Sinlate.github.io/2022/02/11/hello-world/</id>
     <published>2022-02-11T07:36:16.628Z</published>
     <updated>2022-02-11T07:36:16.628Z</updated>
     
